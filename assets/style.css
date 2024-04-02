@@ -1,0 +1,20 @@
+body{
+   background-color: #af409f;
+   padding: 0;
+   margin: 0;
+}
+p {
+   text-align: center;
+   color: black;
+ }
+
+ #submit {
+   background-color: #57267e;
+   color: white;
+   padding: 10px 20px;
+ }
+ #submit:hover {
+   background-color:#af409f;
+ }
+
+
